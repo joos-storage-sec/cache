@@ -1,0 +1,2 @@
+# cache
+Кеширование Redis/memcached
